@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Lilita+One&family=Maven+Pro:wght@500&family=Signika+Negative:wght@500&family=Ubuntu:wght@500&display=swap');
+
+  :root {
+    --main-bg-color:rgb(9, 215, 40);
+       --font1: 'Lilita One', cursive;
+      --font2: 'Maven Pro', sans-serif;
+      --font3: 'Signika Negative', sans-serif;
+      --font4: 'Ubuntu', sans-serif;
+      --font5: 'Fjalla One', sans-serif;
+  }
+
+  .max-width-1 {
+      width: 90vw;
+  }
+
+  .max-width-2 {
+      width: 79vw;
+  }
+
+  .max-width-3 {
+      width: 59vw;
+  }
+
+  .m-auto {
+      margin: auto;
+  }
+
+  .font1{
+    font-family: var(--font1);
+  }
+  .font2{
+    font-family: var(--font2);
+  }
+  .font3{
+    font-family: var(--font3);
+  }
+  .font4{
+    font-family: var(--font4);
+  }
+  .font5{
+    font-family: var(--font5);
+  }
+
+.my-2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.my-1{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+  
